@@ -1,0 +1,3 @@
+C:\Users\Lanst14\Desktop\RetroGameCS50H-master\RetroGame\RetroGame\RetroGameContent\obj\x86\Debug\RetroGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lanst14\Documents\GitHub\RetroGameCS50H\RetroGame\RetroGame\RetroGameContent\obj\x86\Debug\RetroGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lanst14\Documents\GitHub\retroGame\RetroGame\RetroGame\RetroGameContent\obj\x86\Debug\RetroGameContent.contentprojResolveAssemblyReference.cache
